@@ -3,6 +3,7 @@
 CollabBoard is an intuitive and dynamic task management application that enables teams to seamlessly collaborate, organize, and track their tasks. Designed with simplicity and efficiency in mind, CollabBoard helps you stay on top of your projects while fostering teamwork and productivity.
 
 ## Table of Contents
+- [Deployed Website](#deployed-website)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,6 +12,9 @@ CollabBoard is an intuitive and dynamic task management application that enables
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
+
+## Deployed Website
+Click here to view the deployed website: https://collabboard.onrender.com
 
 ## Features
 - User Authentication: Secure login and token-based authentication using JSON Web Tokens (JWT).
